@@ -1,0 +1,681 @@
+age,annual_income_k,spending_score,web_sessions_mo,avg_purchase_usd,true_segment
+23.0,44.2,83.0,41.0,45.8,Young Trend Shoppers
+44.0,90.2,76.0,24.0,102.7,Premium Loyalists
+22.0,37.6,81.0,38.0,44.8,Young Trend Shoppers
+46.0,100.0,86.0,23.0,118.3,Premium Loyalists
+21.0,33.2,80.0,37.0,39.2,Young Trend Shoppers
+62.0,93.5,24.0,2.0,91.1,Affluent Infrequent
+49.0,109.1,15.0,4.0,107.2,Affluent Infrequent
+37.0,42.6,23.0,11.0,24.3,Budget Conscious
+49.0,79.6,23.0,5.0,115.7,Affluent Infrequent
+56.0,93.6,28.0,6.0,100.1,Affluent Infrequent
+41.0,49.4,31.0,11.0,30.3,Budget Conscious
+32.0,44.5,31.0,10.0,33.8,Budget Conscious
+55.0,112.4,18.0,4.0,85.5,Affluent Infrequent
+48.0,86.9,83.0,22.0,132.6,Premium Loyalists
+45.0,47.7,28.0,11.0,26.5,Budget Conscious
+35.0,45.3,29.0,16.0,18.2,Budget Conscious
+47.0,141.5,33.0,11.0,132.3,Outlier
+28.0,35.3,80.0,31.0,41.9,Young Trend Shoppers
+23.0,34.4,67.0,35.0,51.1,Young Trend Shoppers
+41.0,82.9,84.0,26.0,112.0,Premium Loyalists
+35.0,53.5,30.0,11.0,27.8,Budget Conscious
+59.0,105.2,15.0,4.0,106.7,Affluent Infrequent
+43.0,98.7,30.0,8.0,77.2,Affluent Infrequent
+52.0,71.0,78.0,28.0,142.3,Premium Loyalists
+49.0,74.7,80.0,28.0,128.0,Premium Loyalists
+54.0,70.9,82.0,30.0,147.0,Premium Loyalists
+49.0,96.4,19.0,3.0,94.6,Affluent Infrequent
+50.0,80.8,88.0,20.0,109.4,Premium Loyalists
+63.0,10.7,39.0,72.0,152.0,Outlier
+53.0,83.7,88.0,29.0,129.8,Premium Loyalists
+45.0,83.7,80.0,23.0,98.0,Premium Loyalists
+28.0,44.9,28.0,10.0,25.8,Budget Conscious
+36.0,78.0,82.0,28.0,124.4,Premium Loyalists
+38.0,91.5,84.0,26.0,125.5,Premium Loyalists
+37.0,91.6,81.0,29.0,128.3,Premium Loyalists
+43.0,67.8,87.0,24.0,111.9,Premium Loyalists
+33.0,33.2,29.0,11.0,23.1,Budget Conscious
+23.0,37.5,78.0,49.0,43.4,Young Trend Shoppers
+26.0,37.3,78.0,48.0,40.1,Young Trend Shoppers
+43.0,43.7,28.0,12.0,26.8,Budget Conscious
+24.0,37.3,24.0,15.0,25.5,Budget Conscious
+45.0,82.0,77.0,27.0,142.1,Premium Loyalists
+20.0,36.5,80.0,32.0,43.6,Young Trend Shoppers
+41.0,87.4,78.0,25.0,136.4,Premium Loyalists
+39.0,44.6,33.0,10.0,27.8,Budget Conscious
+43.0,49.1,39.0,17.0,25.9,Budget Conscious
+24.0,47.3,89.0,34.0,40.4,Young Trend Shoppers
+38.0,46.4,24.0,14.0,16.8,Budget Conscious
+43.0,76.2,86.0,28.0,125.5,Premium Loyalists
+52.0,98.1,22.0,5.0,84.9,Affluent Infrequent
+26.0,42.1,80.0,39.0,34.1,Young Trend Shoppers
+57.0,112.2,31.0,7.0,108.0,Affluent Infrequent
+35.0,104.4,37.0,54.0,20.0,Outlier
+61.0,106.4,20.0,6.0,71.8,Affluent Infrequent
+38.0,89.9,90.0,25.0,124.7,Premium Loyalists
+42.0,39.7,24.0,15.0,17.5,Budget Conscious
+51.0,93.0,83.0,21.0,138.6,Premium Loyalists
+57.0,116.5,21.0,6.0,61.6,Affluent Infrequent
+43.0,84.2,91.0,25.0,128.0,Premium Loyalists
+42.0,80.4,80.0,23.0,120.1,Premium Loyalists
+27.0,49.8,80.0,46.0,41.1,Young Trend Shoppers
+56.0,99.6,31.0,7.0,83.1,Affluent Infrequent
+28.0,37.3,25.0,9.0,34.3,Budget Conscious
+62.0,108.6,21.0,8.0,99.0,Affluent Infrequent
+43.0,46.6,39.0,53.0,221.3,Outlier
+32.0,41.4,18.0,11.0,31.0,Budget Conscious
+18.0,98.6,10.0,32.0,230.0,Outlier
+44.0,75.6,84.0,28.0,123.2,Premium Loyalists
+46.0,43.5,20.0,13.0,29.7,Budget Conscious
+34.0,57.0,60.0,24.0,351.1,Outlier
+51.0,96.7,86.0,33.0,122.7,Premium Loyalists
+40.0,76.1,77.0,25.0,102.7,Premium Loyalists
+57.0,97.8,22.0,7.0,101.9,Affluent Infrequent
+34.0,42.4,31.0,12.0,38.6,Budget Conscious
+24.0,36.8,71.0,46.0,43.0,Young Trend Shoppers
+40.0,36.5,29.0,17.0,27.2,Budget Conscious
+31.0,41.2,27.0,10.0,30.0,Budget Conscious
+24.0,42.9,62.0,35.0,44.7,Young Trend Shoppers
+26.0,38.0,73.0,44.0,36.5,Young Trend Shoppers
+31.0,32.8,30.0,8.0,23.7,Budget Conscious
+27.0,36.8,89.0,41.0,40.4,Young Trend Shoppers
+56.0,105.5,27.0,8.0,85.6,Affluent Infrequent
+24.0,31.4,91.0,44.0,37.0,Young Trend Shoppers
+23.0,37.3,72.0,40.0,43.0,Young Trend Shoppers
+48.0,93.1,75.0,24.0,138.2,Premium Loyalists
+69.0,40.4,88.0,51.0,371.5,Outlier
+44.0,87.6,94.0,25.0,121.0,Premium Loyalists
+62.0,100.9,20.0,5.0,71.0,Affluent Infrequent
+37.0,50.0,21.0,9.0,35.6,Budget Conscious
+46.0,86.2,80.0,25.0,143.7,Premium Loyalists
+30.0,27.7,29.0,5.0,25.9,Budget Conscious
+36.0,34.9,23.0,7.0,27.8,Budget Conscious
+65.0,184.3,55.0,8.0,153.6,Outlier
+24.0,38.2,74.0,42.0,29.2,Young Trend Shoppers
+25.0,38.0,66.0,44.0,50.2,Young Trend Shoppers
+61.0,75.6,75.0,25.0,133.0,Premium Loyalists
+45.0,91.3,19.0,7.0,92.6,Affluent Infrequent
+50.0,108.2,75.0,21.0,112.0,Premium Loyalists
+75.0,80.2,82.0,76.0,15.0,Outlier
+57.0,121.9,35.0,6.0,86.2,Affluent Infrequent
+48.0,82.4,85.0,27.0,146.4,Premium Loyalists
+51.0,93.7,18.0,7.0,75.4,Affluent Infrequent
+37.0,48.1,35.0,10.0,27.4,Budget Conscious
+39.0,42.5,26.0,4.0,29.6,Budget Conscious
+29.0,43.3,27.0,13.0,21.1,Budget Conscious
+34.0,40.6,28.0,12.0,38.1,Budget Conscious
+62.0,100.9,22.0,5.0,87.3,Affluent Infrequent
+26.0,44.4,86.0,49.0,43.5,Young Trend Shoppers
+31.0,36.4,27.0,11.0,31.9,Budget Conscious
+35.0,44.6,41.0,14.0,29.0,Budget Conscious
+39.0,98.8,83.0,21.0,147.9,Premium Loyalists
+41.0,43.6,28.0,12.0,28.7,Budget Conscious
+47.0,95.4,81.0,21.0,123.8,Premium Loyalists
+28.0,39.1,74.0,51.0,37.5,Young Trend Shoppers
+49.0,99.0,81.0,24.0,135.9,Premium Loyalists
+43.0,85.4,91.0,20.0,123.6,Premium Loyalists
+40.0,81.8,72.0,23.0,134.7,Premium Loyalists
+47.0,90.1,81.0,24.0,134.3,Premium Loyalists
+22.0,36.8,80.0,34.0,36.7,Young Trend Shoppers
+39.0,33.9,27.0,12.0,28.4,Budget Conscious
+43.0,86.9,84.0,27.0,129.1,Premium Loyalists
+38.0,54.1,30.0,11.0,31.2,Budget Conscious
+51.0,75.6,79.0,25.0,118.0,Premium Loyalists
+37.0,45.2,32.0,12.0,32.1,Budget Conscious
+58.0,110.4,18.0,7.0,101.9,Affluent Infrequent
+55.0,92.0,35.0,5.0,91.1,Affluent Infrequent
+29.0,31.4,80.0,37.0,45.0,Young Trend Shoppers
+46.0,86.8,81.0,32.0,103.6,Premium Loyalists
+25.0,45.0,85.0,28.0,48.0,Young Trend Shoppers
+62.0,85.9,24.0,5.0,97.5,Affluent Infrequent
+26.0,39.4,83.0,45.0,48.3,Young Trend Shoppers
+49.0,83.6,88.0,28.0,125.7,Premium Loyalists
+48.0,85.4,87.0,23.0,121.2,Premium Loyalists
+29.0,39.6,36.0,8.0,32.7,Budget Conscious
+40.0,35.3,25.0,16.0,24.9,Budget Conscious
+34.0,47.5,28.0,12.0,33.3,Budget Conscious
+26.0,46.3,78.0,47.0,46.2,Young Trend Shoppers
+43.0,96.4,17.0,6.0,106.8,Affluent Infrequent
+54.0,88.3,20.0,7.0,71.1,Affluent Infrequent
+46.0,72.7,89.0,26.0,125.4,Premium Loyalists
+45.0,82.7,76.0,31.0,145.2,Premium Loyalists
+29.0,43.9,23.0,11.0,19.4,Budget Conscious
+31.0,34.6,69.0,36.0,38.2,Young Trend Shoppers
+39.0,42.4,30.0,10.0,31.2,Budget Conscious
+27.0,45.1,76.0,40.0,36.8,Young Trend Shoppers
+48.0,31.9,30.0,15.0,24.7,Budget Conscious
+38.0,45.6,26.0,11.0,30.4,Budget Conscious
+53.0,100.7,23.0,3.0,79.4,Affluent Infrequent
+51.0,101.8,19.0,7.0,83.7,Affluent Infrequent
+46.0,87.4,87.0,23.0,121.1,Premium Loyalists
+30.0,52.9,20.0,8.0,37.1,Budget Conscious
+55.0,99.7,11.0,4.0,92.6,Affluent Infrequent
+35.0,42.7,30.0,10.0,30.8,Budget Conscious
+28.0,45.4,77.0,42.0,41.4,Young Trend Shoppers
+40.0,36.1,30.0,13.0,28.6,Budget Conscious
+26.0,30.6,68.0,45.0,43.2,Young Trend Shoppers
+54.0,89.8,10.0,5.0,86.7,Affluent Infrequent
+39.0,44.2,24.0,14.0,31.7,Budget Conscious
+46.0,70.9,79.0,30.0,146.6,Premium Loyalists
+56.0,94.4,9.0,5.0,66.6,Affluent Infrequent
+28.0,40.5,75.0,49.0,36.9,Young Trend Shoppers
+39.0,82.6,86.0,27.0,125.2,Premium Loyalists
+33.0,26.9,32.0,8.0,33.4,Budget Conscious
+63.0,95.7,15.0,2.0,68.1,Affluent Infrequent
+36.0,44.6,42.0,9.0,29.5,Budget Conscious
+48.0,33.8,23.0,11.0,25.1,Budget Conscious
+22.0,25.3,78.0,52.0,33.0,Young Trend Shoppers
+25.0,35.7,83.0,43.0,30.7,Young Trend Shoppers
+49.0,79.2,81.0,31.0,122.6,Premium Loyalists
+49.0,89.8,17.0,7.0,71.5,Affluent Infrequent
+47.0,82.3,75.0,27.0,114.3,Premium Loyalists
+45.0,55.2,32.0,7.0,18.8,Budget Conscious
+31.0,40.3,26.0,12.0,26.2,Budget Conscious
+26.0,32.7,78.0,43.0,41.1,Young Trend Shoppers
+24.0,52.0,22.0,9.0,31.4,Budget Conscious
+50.0,106.1,22.0,3.0,80.2,Affluent Infrequent
+30.0,37.7,81.0,42.0,40.3,Young Trend Shoppers
+38.0,38.9,29.0,16.0,25.1,Budget Conscious
+36.0,36.4,24.0,13.0,33.9,Budget Conscious
+61.0,109.5,23.0,6.0,86.2,Affluent Infrequent
+40.0,66.7,77.0,30.0,127.7,Premium Loyalists
+56.0,103.5,26.0,8.0,104.6,Affluent Infrequent
+26.0,33.9,83.0,38.0,42.4,Young Trend Shoppers
+49.0,88.6,72.0,27.0,99.6,Premium Loyalists
+54.0,108.2,28.0,4.0,104.5,Affluent Infrequent
+22.0,36.7,79.0,43.0,51.8,Young Trend Shoppers
+35.0,47.3,38.0,14.0,33.2,Budget Conscious
+40.0,68.5,80.0,23.0,128.5,Premium Loyalists
+43.0,107.3,26.0,4.0,91.4,Affluent Infrequent
+48.0,83.1,81.0,25.0,114.9,Premium Loyalists
+26.0,36.3,82.0,43.0,37.0,Young Trend Shoppers
+30.0,43.8,35.0,8.0,26.2,Budget Conscious
+50.0,93.9,77.0,25.0,107.0,Premium Loyalists
+52.0,106.0,30.0,8.0,98.0,Affluent Infrequent
+40.0,98.2,86.0,28.0,111.6,Premium Loyalists
+37.0,44.5,30.0,11.0,26.1,Budget Conscious
+57.0,87.6,25.0,2.0,74.9,Affluent Infrequent
+25.0,45.1,80.0,35.0,49.0,Young Trend Shoppers
+63.0,87.1,39.0,5.0,101.7,Affluent Infrequent
+47.0,83.8,78.0,23.0,106.6,Premium Loyalists
+42.0,37.5,22.0,10.0,34.5,Budget Conscious
+51.0,99.0,16.0,5.0,96.9,Affluent Infrequent
+27.0,42.7,88.0,47.0,26.1,Young Trend Shoppers
+40.0,39.5,31.0,11.0,25.4,Budget Conscious
+20.0,37.9,72.0,41.0,50.6,Young Trend Shoppers
+25.0,39.8,74.0,42.0,42.0,Young Trend Shoppers
+37.0,54.0,29.0,12.0,36.6,Budget Conscious
+26.0,51.5,81.0,41.0,47.6,Young Trend Shoppers
+49.0,83.2,81.0,18.0,140.0,Premium Loyalists
+49.0,86.5,22.0,3.0,87.1,Affluent Infrequent
+38.0,97.3,89.0,25.0,142.5,Premium Loyalists
+21.0,26.9,66.0,39.0,42.3,Young Trend Shoppers
+26.0,34.9,74.0,49.0,31.5,Young Trend Shoppers
+38.0,45.5,31.0,12.0,22.4,Budget Conscious
+34.0,48.1,32.0,11.0,18.6,Budget Conscious
+40.0,83.8,85.0,25.0,132.7,Premium Loyalists
+25.0,42.8,81.0,45.0,30.5,Young Trend Shoppers
+63.0,105.4,27.0,4.0,106.4,Affluent Infrequent
+26.0,28.4,81.0,38.0,47.5,Young Trend Shoppers
+44.0,103.3,23.0,7.0,72.4,Affluent Infrequent
+34.0,48.1,31.0,11.0,20.3,Budget Conscious
+57.0,85.6,88.0,23.0,111.7,Premium Loyalists
+42.0,99.7,90.0,27.0,122.6,Premium Loyalists
+50.0,84.5,82.0,26.0,126.6,Premium Loyalists
+49.0,79.4,79.0,27.0,130.3,Premium Loyalists
+34.0,88.4,81.0,25.0,113.9,Premium Loyalists
+40.0,81.1,84.0,23.0,149.6,Premium Loyalists
+51.0,93.9,18.0,7.0,95.7,Affluent Infrequent
+44.0,84.5,84.0,31.0,120.1,Premium Loyalists
+30.0,37.1,32.0,14.0,30.6,Budget Conscious
+25.0,46.2,25.0,9.0,30.7,Budget Conscious
+49.0,90.5,22.0,6.0,95.7,Affluent Infrequent
+33.0,35.8,19.0,15.0,33.0,Budget Conscious
+50.0,38.3,24.0,10.0,29.3,Budget Conscious
+36.0,41.4,26.0,12.0,26.5,Budget Conscious
+43.0,74.4,82.0,26.0,121.4,Premium Loyalists
+24.0,43.4,75.0,40.0,44.3,Young Trend Shoppers
+34.0,36.9,30.0,14.0,25.4,Budget Conscious
+40.0,33.4,23.0,10.0,28.5,Budget Conscious
+58.0,80.9,18.0,4.0,75.0,Affluent Infrequent
+37.0,88.1,83.0,25.0,128.7,Premium Loyalists
+26.0,27.2,79.0,34.0,59.1,Young Trend Shoppers
+31.0,40.3,28.0,10.0,22.3,Budget Conscious
+22.0,40.2,75.0,37.0,36.2,Young Trend Shoppers
+25.0,41.3,81.0,41.0,44.0,Young Trend Shoppers
+42.0,72.4,94.0,29.0,108.9,Premium Loyalists
+45.0,107.8,18.0,5.0,90.3,Affluent Infrequent
+46.0,83.0,86.0,23.0,103.6,Premium Loyalists
+54.0,105.2,33.0,4.0,87.5,Affluent Infrequent
+33.0,39.2,25.0,13.0,23.3,Budget Conscious
+43.0,84.2,78.0,24.0,124.0,Premium Loyalists
+35.0,16.8,64.0,35.0,354.2,Outlier
+26.0,40.0,77.0,36.0,42.9,Young Trend Shoppers
+43.0,88.5,79.0,28.0,136.9,Premium Loyalists
+25.0,37.5,83.0,41.0,50.8,Young Trend Shoppers
+62.0,91.6,19.0,4.0,83.6,Affluent Infrequent
+24.0,32.9,82.0,48.0,29.2,Young Trend Shoppers
+33.0,37.6,29.0,8.0,29.3,Budget Conscious
+49.0,88.6,8.0,7.0,105.9,Affluent Infrequent
+35.0,46.7,26.0,10.0,28.2,Budget Conscious
+24.0,39.2,85.0,48.0,39.2,Young Trend Shoppers
+53.0,100.2,31.0,7.0,107.5,Affluent Infrequent
+49.0,83.9,79.0,24.0,137.3,Premium Loyalists
+42.0,47.7,19.0,11.0,27.0,Budget Conscious
+41.0,86.4,86.0,25.0,133.9,Premium Loyalists
+44.0,88.5,84.0,22.0,125.4,Premium Loyalists
+60.0,107.3,21.0,5.0,84.0,Affluent Infrequent
+57.0,90.0,21.0,4.0,93.2,Affluent Infrequent
+24.0,33.7,79.0,40.0,44.1,Young Trend Shoppers
+52.0,106.5,9.0,5.0,77.2,Affluent Infrequent
+43.0,49.7,21.0,12.0,25.9,Budget Conscious
+59.0,70.5,23.0,7.0,88.2,Affluent Infrequent
+26.0,36.9,71.0,39.0,37.8,Young Trend Shoppers
+38.0,45.4,28.0,14.0,21.7,Budget Conscious
+58.0,83.2,28.0,6.0,107.6,Affluent Infrequent
+54.0,103.6,22.0,5.0,84.9,Affluent Infrequent
+54.0,50.9,27.0,48.0,81.0,Outlier
+37.0,41.5,31.0,9.0,16.6,Budget Conscious
+43.0,41.9,30.0,12.0,26.0,Budget Conscious
+51.0,87.5,79.0,23.0,122.3,Premium Loyalists
+55.0,99.1,25.0,4.0,79.4,Affluent Infrequent
+44.0,38.3,29.0,13.0,24.3,Budget Conscious
+52.0,105.0,35.0,5.0,100.0,Affluent Infrequent
+45.0,106.2,21.0,7.0,95.9,Affluent Infrequent
+43.0,92.4,74.0,33.0,111.1,Premium Loyalists
+37.0,87.5,79.0,32.0,128.1,Premium Loyalists
+39.0,42.3,26.0,12.0,23.8,Budget Conscious
+40.0,47.1,22.0,13.0,35.4,Budget Conscious
+23.0,49.0,85.0,32.0,41.0,Young Trend Shoppers
+39.0,76.1,78.0,22.0,127.9,Premium Loyalists
+38.0,40.7,27.0,8.0,20.1,Budget Conscious
+41.0,89.7,78.0,24.0,116.5,Premium Loyalists
+46.0,87.2,88.0,28.0,114.7,Premium Loyalists
+47.0,83.0,84.0,32.0,129.8,Premium Loyalists
+60.0,94.1,24.0,6.0,72.3,Affluent Infrequent
+56.0,97.5,14.0,9.0,91.3,Affluent Infrequent
+56.0,93.5,22.0,6.0,89.0,Affluent Infrequent
+39.0,45.4,22.0,11.0,31.9,Budget Conscious
+33.0,94.4,79.0,30.0,124.3,Premium Loyalists
+54.0,88.9,25.0,5.0,77.9,Affluent Infrequent
+46.0,86.5,78.0,27.0,128.4,Premium Loyalists
+26.0,36.2,85.0,35.0,53.5,Young Trend Shoppers
+49.0,98.6,15.0,4.0,96.9,Affluent Infrequent
+30.0,36.3,87.0,28.0,43.7,Young Trend Shoppers
+47.0,40.7,32.0,12.0,23.3,Budget Conscious
+40.0,76.5,82.0,27.0,125.7,Premium Loyalists
+26.0,32.5,76.0,38.0,40.7,Young Trend Shoppers
+48.0,91.9,15.0,5.0,93.5,Affluent Infrequent
+61.0,108.0,27.0,6.0,73.3,Affluent Infrequent
+24.0,38.3,75.0,40.0,33.7,Young Trend Shoppers
+26.0,48.3,25.0,12.0,27.5,Budget Conscious
+25.0,33.3,79.0,46.0,31.3,Young Trend Shoppers
+43.0,42.5,27.0,9.0,23.8,Budget Conscious
+49.0,81.7,87.0,27.0,97.6,Premium Loyalists
+34.0,40.9,31.0,13.0,31.8,Budget Conscious
+25.0,40.4,78.0,47.0,49.4,Young Trend Shoppers
+50.0,105.1,81.0,22.0,126.0,Premium Loyalists
+24.0,41.4,77.0,38.0,30.3,Young Trend Shoppers
+50.0,85.0,90.0,22.0,105.6,Premium Loyalists
+44.0,72.3,83.0,25.0,95.0,Premium Loyalists
+31.0,46.4,27.0,6.0,29.0,Budget Conscious
+24.0,37.4,83.0,39.0,45.9,Young Trend Shoppers
+34.0,36.9,38.0,13.0,27.0,Budget Conscious
+48.0,104.1,28.0,4.0,98.9,Affluent Infrequent
+53.0,87.3,30.0,6.0,78.9,Affluent Infrequent
+27.0,30.8,69.0,44.0,46.7,Young Trend Shoppers
+61.0,97.3,18.0,4.0,100.0,Affluent Infrequent
+41.0,49.6,30.0,9.0,37.7,Budget Conscious
+41.0,41.4,34.0,11.0,20.0,Budget Conscious
+45.0,101.7,92.0,20.0,119.0,Premium Loyalists
+29.0,38.9,80.0,48.0,41.9,Young Trend Shoppers
+22.0,37.6,72.0,51.0,44.3,Young Trend Shoppers
+28.0,28.8,72.0,42.0,51.2,Young Trend Shoppers
+30.0,34.4,29.0,12.0,28.3,Budget Conscious
+40.0,87.1,81.0,28.0,125.4,Premium Loyalists
+42.0,86.4,80.0,27.0,114.3,Premium Loyalists
+61.0,115.7,17.0,4.0,101.0,Affluent Infrequent
+50.0,48.1,16.0,68.0,301.8,Outlier
+54.0,104.8,26.0,4.0,99.9,Affluent Infrequent
+44.0,89.3,86.0,30.0,113.9,Premium Loyalists
+43.0,40.7,33.0,10.0,28.1,Budget Conscious
+36.0,47.4,19.0,8.0,19.8,Budget Conscious
+25.0,38.5,84.0,39.0,35.2,Young Trend Shoppers
+25.0,37.1,78.0,41.0,39.8,Young Trend Shoppers
+27.0,40.9,79.0,41.0,40.9,Young Trend Shoppers
+24.0,46.5,71.0,53.0,45.7,Young Trend Shoppers
+32.0,40.2,24.0,10.0,31.7,Budget Conscious
+34.0,41.6,30.0,14.0,31.7,Budget Conscious
+32.0,47.5,26.0,13.0,19.8,Budget Conscious
+25.0,27.9,83.0,39.0,39.2,Young Trend Shoppers
+46.0,91.9,82.0,23.0,146.0,Premium Loyalists
+50.0,91.3,33.0,5.0,98.7,Affluent Infrequent
+50.0,97.9,89.0,29.0,111.9,Premium Loyalists
+59.0,114.8,32.0,6.0,109.4,Affluent Infrequent
+57.0,111.4,20.0,5.0,72.4,Affluent Infrequent
+60.0,105.2,27.0,7.0,86.0,Affluent Infrequent
+26.0,33.3,77.0,47.0,34.3,Young Trend Shoppers
+43.0,80.6,88.0,24.0,129.6,Premium Loyalists
+27.0,39.9,24.0,12.0,23.6,Budget Conscious
+23.0,30.3,88.0,37.0,30.7,Young Trend Shoppers
+59.0,82.5,33.0,5.0,91.1,Affluent Infrequent
+38.0,82.1,77.0,23.0,116.0,Premium Loyalists
+53.0,39.5,29.0,6.0,31.9,Budget Conscious
+36.0,44.8,28.0,9.0,25.0,Budget Conscious
+47.0,94.5,84.0,28.0,128.3,Premium Loyalists
+41.0,37.3,32.0,13.0,23.4,Budget Conscious
+55.0,92.9,13.0,6.0,97.7,Affluent Infrequent
+30.0,47.0,23.0,12.0,30.8,Budget Conscious
+57.0,92.3,71.0,21.0,125.1,Premium Loyalists
+31.0,48.9,32.0,13.0,26.7,Budget Conscious
+41.0,46.2,34.0,11.0,32.4,Budget Conscious
+38.0,95.4,84.0,28.0,135.2,Premium Loyalists
+53.0,101.2,22.0,4.0,96.6,Affluent Infrequent
+39.0,86.8,84.0,23.0,138.5,Premium Loyalists
+34.0,42.2,25.0,14.0,27.9,Budget Conscious
+47.0,75.2,85.0,24.0,131.2,Premium Loyalists
+48.0,85.0,84.0,18.0,127.6,Premium Loyalists
+25.0,40.9,83.0,52.0,44.0,Young Trend Shoppers
+48.0,77.1,73.0,27.0,129.7,Premium Loyalists
+24.0,34.9,73.0,34.0,51.8,Young Trend Shoppers
+47.0,91.8,77.0,28.0,118.3,Premium Loyalists
+60.0,101.7,18.0,4.0,85.0,Affluent Infrequent
+48.0,86.8,24.0,5.0,77.8,Affluent Infrequent
+54.0,102.8,29.0,5.0,76.5,Affluent Infrequent
+23.0,34.1,24.0,14.0,27.3,Budget Conscious
+44.0,87.5,84.0,34.0,118.1,Premium Loyalists
+35.0,48.5,34.0,12.0,26.7,Budget Conscious
+36.0,40.9,26.0,14.0,23.7,Budget Conscious
+53.0,123.3,27.0,4.0,83.5,Affluent Infrequent
+47.0,76.6,81.0,21.0,129.4,Premium Loyalists
+49.0,107.4,20.0,5.0,94.2,Affluent Infrequent
+25.0,47.4,81.0,43.0,30.4,Young Trend Shoppers
+29.0,44.2,28.0,7.0,24.4,Budget Conscious
+45.0,81.9,86.0,27.0,131.6,Premium Loyalists
+49.0,93.0,20.0,4.0,95.7,Affluent Infrequent
+37.0,42.7,28.0,13.0,36.7,Budget Conscious
+74.0,39.3,59.0,12.0,53.5,Outlier
+38.0,39.6,24.0,9.0,30.6,Budget Conscious
+25.0,39.7,80.0,36.0,53.4,Young Trend Shoppers
+45.0,83.1,85.0,28.0,116.0,Premium Loyalists
+59.0,85.5,27.0,6.0,70.4,Affluent Infrequent
+28.0,37.3,77.0,43.0,37.0,Young Trend Shoppers
+46.0,91.0,75.0,24.0,126.0,Premium Loyalists
+36.0,43.5,32.0,11.0,29.0,Budget Conscious
+48.0,76.1,85.0,26.0,128.3,Premium Loyalists
+61.0,89.2,21.0,6.0,117.1,Affluent Infrequent
+42.0,79.2,81.0,22.0,125.1,Premium Loyalists
+24.0,41.1,77.0,42.0,47.3,Young Trend Shoppers
+38.0,38.0,21.0,9.0,31.3,Budget Conscious
+37.0,88.5,84.0,27.0,119.1,Premium Loyalists
+35.0,39.6,30.0,9.0,19.1,Budget Conscious
+38.0,93.5,74.0,25.0,121.3,Premium Loyalists
+48.0,108.5,31.0,10.0,96.0,Affluent Infrequent
+26.0,32.6,72.0,49.0,36.8,Young Trend Shoppers
+27.0,38.9,71.0,43.0,33.2,Young Trend Shoppers
+42.0,37.5,23.0,16.0,25.8,Budget Conscious
+37.0,52.8,26.0,16.0,34.6,Budget Conscious
+53.0,82.4,85.0,25.0,123.9,Premium Loyalists
+56.0,92.9,72.0,27.0,101.8,Premium Loyalists
+52.0,94.0,24.0,8.0,96.8,Affluent Infrequent
+49.0,80.3,71.0,27.0,141.3,Premium Loyalists
+26.0,43.4,84.0,41.0,50.6,Young Trend Shoppers
+42.0,96.8,81.0,31.0,111.5,Premium Loyalists
+27.0,41.3,64.0,42.0,50.2,Young Trend Shoppers
+37.0,43.8,27.0,11.0,27.7,Budget Conscious
+29.0,39.3,74.0,42.0,43.1,Young Trend Shoppers
+38.0,40.5,37.0,14.0,20.6,Budget Conscious
+28.0,38.3,69.0,53.0,63.0,Young Trend Shoppers
+25.0,35.8,80.0,40.0,43.7,Young Trend Shoppers
+44.0,81.2,80.0,26.0,125.3,Premium Loyalists
+26.0,31.7,74.0,39.0,59.2,Young Trend Shoppers
+45.0,107.7,87.0,17.0,99.6,Outlier
+42.0,101.8,22.0,2.0,130.5,Affluent Infrequent
+29.0,40.2,85.0,39.0,41.6,Young Trend Shoppers
+21.0,45.1,87.0,41.0,32.0,Young Trend Shoppers
+42.0,76.9,82.0,19.0,125.8,Premium Loyalists
+24.0,34.6,72.0,48.0,38.1,Young Trend Shoppers
+30.0,36.0,78.0,45.0,37.4,Young Trend Shoppers
+29.0,41.3,24.0,13.0,31.0,Budget Conscious
+22.0,37.6,80.0,40.0,40.3,Young Trend Shoppers
+44.0,97.1,75.0,27.0,128.3,Premium Loyalists
+46.0,79.6,85.0,19.0,124.9,Premium Loyalists
+40.0,88.3,81.0,26.0,110.9,Premium Loyalists
+47.0,89.7,83.0,28.0,119.8,Premium Loyalists
+42.0,46.7,29.0,10.0,28.0,Budget Conscious
+25.0,31.3,76.0,43.0,33.6,Young Trend Shoppers
+25.0,44.9,81.0,44.0,46.0,Young Trend Shoppers
+39.0,45.2,27.0,9.0,30.9,Budget Conscious
+23.0,34.9,76.0,40.0,37.4,Young Trend Shoppers
+43.0,90.8,79.0,24.0,135.0,Premium Loyalists
+55.0,99.1,19.0,5.0,107.9,Affluent Infrequent
+26.0,31.5,73.0,46.0,25.1,Young Trend Shoppers
+22.0,45.6,82.0,53.0,42.2,Young Trend Shoppers
+27.0,33.6,80.0,33.0,32.1,Young Trend Shoppers
+25.0,40.1,87.0,41.0,36.1,Young Trend Shoppers
+24.0,39.8,93.0,45.0,47.4,Young Trend Shoppers
+51.0,92.9,22.0,9.0,102.1,Affluent Infrequent
+63.0,103.4,31.0,7.0,79.8,Affluent Infrequent
+67.0,99.7,12.0,3.0,107.3,Affluent Infrequent
+62.0,96.9,17.0,6.0,81.9,Affluent Infrequent
+41.0,51.3,25.0,8.0,30.3,Budget Conscious
+42.0,35.8,30.0,12.0,36.7,Budget Conscious
+62.0,95.7,23.0,5.0,81.6,Affluent Infrequent
+46.0,86.9,85.0,22.0,137.6,Premium Loyalists
+48.0,95.5,15.0,3.0,108.6,Affluent Infrequent
+36.0,97.6,82.0,25.0,117.5,Premium Loyalists
+18.0,42.0,81.0,46.0,38.7,Young Trend Shoppers
+36.0,47.2,27.0,14.0,23.8,Budget Conscious
+25.0,32.3,74.0,44.0,31.4,Young Trend Shoppers
+60.0,96.6,16.0,7.0,82.7,Affluent Infrequent
+31.0,51.2,32.0,13.0,31.6,Budget Conscious
+56.0,96.9,24.0,6.0,75.7,Affluent Infrequent
+26.0,44.3,82.0,45.0,34.9,Young Trend Shoppers
+43.0,88.8,84.0,21.0,119.2,Premium Loyalists
+22.0,32.5,67.0,39.0,38.4,Young Trend Shoppers
+53.0,104.5,23.0,3.0,96.9,Affluent Infrequent
+38.0,36.5,25.0,12.0,27.5,Budget Conscious
+32.0,35.3,33.0,11.0,29.4,Budget Conscious
+46.0,102.7,15.0,4.0,81.3,Affluent Infrequent
+43.0,94.6,86.0,21.0,141.2,Premium Loyalists
+18.0,34.2,82.0,46.0,48.8,Young Trend Shoppers
+34.0,49.8,31.0,9.0,32.9,Budget Conscious
+57.0,92.5,15.0,6.0,98.4,Affluent Infrequent
+53.0,167.7,98.0,46.0,17.0,Outlier
+45.0,85.3,86.0,23.0,102.3,Premium Loyalists
+25.0,36.7,76.0,44.0,40.2,Young Trend Shoppers
+26.0,38.5,88.0,41.0,49.8,Young Trend Shoppers
+62.0,126.4,51.0,54.0,223.2,Outlier
+37.0,50.3,28.0,9.0,25.2,Budget Conscious
+42.0,94.2,86.0,23.0,123.8,Premium Loyalists
+29.0,42.6,83.0,47.0,36.0,Young Trend Shoppers
+46.0,85.7,85.0,28.0,129.1,Premium Loyalists
+63.0,129.6,51.0,77.0,167.3,Outlier
+31.0,18.3,85.0,12.0,76.3,Outlier
+37.0,64.5,83.0,22.0,120.4,Premium Loyalists
+43.0,68.6,74.0,29.0,126.2,Premium Loyalists
+26.0,38.0,86.0,53.0,40.4,Young Trend Shoppers
+50.0,82.7,87.0,27.0,139.6,Premium Loyalists
+23.0,31.7,76.0,36.0,31.2,Young Trend Shoppers
+45.0,96.8,90.0,28.0,104.6,Premium Loyalists
+43.0,74.0,84.0,31.0,125.5,Premium Loyalists
+47.0,73.3,75.0,22.0,145.7,Premium Loyalists
+44.0,108.0,22.0,6.0,78.8,Affluent Infrequent
+38.0,88.8,80.0,28.0,140.4,Premium Loyalists
+45.0,74.1,83.0,28.0,111.3,Premium Loyalists
+42.0,85.2,80.0,27.0,112.8,Premium Loyalists
+40.0,87.1,82.0,28.0,111.3,Premium Loyalists
+35.0,84.2,77.0,25.0,92.9,Premium Loyalists
+47.0,85.5,73.0,34.0,129.0,Premium Loyalists
+22.0,42.3,70.0,45.0,38.1,Young Trend Shoppers
+26.0,40.9,82.0,44.0,46.0,Young Trend Shoppers
+47.0,78.0,83.0,28.0,120.5,Premium Loyalists
+24.0,46.6,69.0,35.0,50.4,Young Trend Shoppers
+41.0,79.8,83.0,25.0,127.4,Premium Loyalists
+53.0,97.5,30.0,4.0,102.7,Affluent Infrequent
+67.0,91.8,29.0,6.0,94.7,Affluent Infrequent
+49.0,78.2,72.0,27.0,109.6,Premium Loyalists
+68.0,107.8,74.0,19.0,258.4,Outlier
+36.0,37.8,30.0,9.0,34.9,Budget Conscious
+48.0,73.3,75.0,24.0,135.7,Premium Loyalists
+47.0,31.8,29.0,12.0,24.0,Budget Conscious
+41.0,50.7,33.0,13.0,28.5,Budget Conscious
+54.0,97.0,29.0,4.0,79.7,Affluent Infrequent
+27.0,40.0,68.0,41.0,38.1,Young Trend Shoppers
+26.0,40.9,32.0,14.0,24.6,Budget Conscious
+23.0,38.5,75.0,43.0,44.7,Young Trend Shoppers
+44.0,45.3,34.0,12.0,32.8,Budget Conscious
+41.0,45.2,28.0,14.0,24.6,Budget Conscious
+52.0,98.1,12.0,3.0,107.8,Affluent Infrequent
+26.0,41.0,75.0,44.0,54.9,Young Trend Shoppers
+58.0,92.5,20.0,5.0,105.1,Affluent Infrequent
+27.0,44.0,75.0,42.0,44.5,Young Trend Shoppers
+48.0,91.7,27.0,3.0,113.7,Affluent Infrequent
+25.0,34.3,81.0,44.0,44.8,Young Trend Shoppers
+41.0,96.3,88.0,27.0,139.3,Premium Loyalists
+42.0,44.3,31.0,12.0,22.0,Budget Conscious
+23.0,34.8,80.0,47.0,46.6,Young Trend Shoppers
+20.0,44.9,87.0,35.0,41.0,Young Trend Shoppers
+26.0,45.0,28.0,12.0,31.9,Budget Conscious
+50.0,79.4,80.0,27.0,130.1,Premium Loyalists
+49.0,89.3,15.0,6.0,104.4,Affluent Infrequent
+28.0,41.8,74.0,34.0,44.5,Young Trend Shoppers
+59.0,88.0,18.0,6.0,100.9,Affluent Infrequent
+53.0,98.1,23.0,5.0,64.4,Affluent Infrequent
+46.0,92.9,18.0,6.0,115.2,Affluent Infrequent
+38.0,48.1,27.0,5.0,25.7,Budget Conscious
+66.0,104.2,24.0,5.0,80.2,Affluent Infrequent
+26.0,36.7,86.0,38.0,31.8,Young Trend Shoppers
+36.0,53.0,26.0,4.0,40.5,Budget Conscious
+24.0,33.6,75.0,48.0,44.6,Young Trend Shoppers
+29.0,43.4,82.0,41.0,41.2,Young Trend Shoppers
+50.0,105.9,16.0,8.0,124.2,Affluent Infrequent
+54.0,80.5,31.0,5.0,73.0,Affluent Infrequent
+26.0,44.9,28.0,6.0,31.3,Budget Conscious
+25.0,26.2,70.0,40.0,42.1,Young Trend Shoppers
+44.0,87.7,83.0,26.0,137.0,Premium Loyalists
+41.0,87.9,80.0,26.0,115.0,Premium Loyalists
+33.0,41.7,20.0,8.0,30.7,Budget Conscious
+52.0,84.0,30.0,4.0,52.4,Affluent Infrequent
+54.0,86.9,79.0,21.0,116.9,Premium Loyalists
+26.0,33.8,85.0,41.0,43.8,Young Trend Shoppers
+28.0,35.2,81.0,45.0,47.8,Young Trend Shoppers
+41.0,41.5,24.0,15.0,25.1,Budget Conscious
+50.0,103.5,23.0,5.0,93.2,Affluent Infrequent
+22.0,40.3,72.0,36.0,25.1,Young Trend Shoppers
+35.0,44.7,23.0,10.0,29.2,Budget Conscious
+43.0,94.4,87.0,29.0,120.7,Premium Loyalists
+25.0,32.3,80.0,38.0,29.5,Young Trend Shoppers
+44.0,92.8,24.0,5.0,106.6,Affluent Infrequent
+41.0,46.7,31.0,15.0,25.4,Budget Conscious
+24.0,30.4,78.0,44.0,39.4,Young Trend Shoppers
+47.0,91.3,89.0,29.0,113.2,Premium Loyalists
+29.0,39.8,28.0,13.0,32.8,Budget Conscious
+38.0,43.5,30.0,11.0,28.1,Budget Conscious
+36.0,79.4,82.0,29.0,133.7,Premium Loyalists
+51.0,95.5,24.0,4.0,72.6,Affluent Infrequent
+50.0,98.8,82.0,27.0,130.4,Premium Loyalists
+24.0,42.9,76.0,34.0,49.8,Young Trend Shoppers
+38.0,78.9,87.0,25.0,120.2,Premium Loyalists
+25.0,35.1,83.0,40.0,42.2,Young Trend Shoppers
+33.0,12.2,7.0,70.0,189.8,Outlier
+47.0,106.4,25.0,4.0,84.1,Affluent Infrequent
+56.0,121.6,20.0,4.0,86.9,Affluent Infrequent
+53.0,107.4,31.0,4.0,103.1,Affluent Infrequent
+62.0,81.3,16.0,6.0,106.1,Affluent Infrequent
+50.0,88.4,23.0,4.0,110.8,Affluent Infrequent
+25.0,37.1,80.0,47.0,32.0,Young Trend Shoppers
+49.0,91.2,79.0,22.0,123.5,Premium Loyalists
+46.0,82.0,77.0,27.0,137.7,Premium Loyalists
+27.0,35.4,82.0,44.0,50.5,Young Trend Shoppers
+46.0,80.9,84.0,25.0,124.4,Premium Loyalists
+51.0,104.5,22.0,6.0,89.4,Affluent Infrequent
+56.0,100.0,17.0,5.0,83.2,Affluent Infrequent
+44.0,82.0,19.0,4.0,81.0,Affluent Infrequent
+36.0,56.4,25.0,13.0,26.5,Budget Conscious
+61.0,108.4,20.0,4.0,98.2,Affluent Infrequent
+41.0,47.1,23.0,7.0,29.2,Budget Conscious
+26.0,44.6,66.0,40.0,42.6,Young Trend Shoppers
+37.0,38.0,27.0,10.0,25.4,Budget Conscious
+27.0,35.7,83.0,29.0,34.6,Young Trend Shoppers
+39.0,90.1,81.0,25.0,112.9,Premium Loyalists
+26.0,34.2,80.0,48.0,41.3,Young Trend Shoppers
+23.0,37.1,75.0,39.0,30.7,Young Trend Shoppers
+62.0,103.3,26.0,5.0,78.8,Affluent Infrequent
+43.0,52.0,28.0,9.0,33.4,Budget Conscious
+25.0,36.9,82.0,49.0,31.8,Young Trend Shoppers
+45.0,87.8,80.0,30.0,110.1,Premium Loyalists
+57.0,84.8,33.0,4.0,87.1,Affluent Infrequent
+31.0,39.1,29.0,13.0,19.2,Budget Conscious
+27.0,36.0,77.0,44.0,40.7,Young Trend Shoppers
+50.0,80.3,89.0,23.0,139.9,Premium Loyalists
+61.0,98.9,7.0,6.0,99.9,Affluent Infrequent
+63.0,115.7,18.0,5.0,105.8,Affluent Infrequent
+55.0,75.3,84.0,23.0,101.5,Premium Loyalists
+34.0,38.0,26.0,11.0,25.9,Budget Conscious
+45.0,46.9,30.0,11.0,26.7,Budget Conscious
+27.0,31.2,85.0,50.0,40.5,Young Trend Shoppers
+53.0,82.3,78.0,21.0,163.1,Premium Loyalists
+52.0,85.7,74.0,26.0,112.8,Premium Loyalists
+56.0,114.6,25.0,6.0,82.7,Affluent Infrequent
+24.0,36.8,78.0,43.0,24.6,Young Trend Shoppers
+37.0,40.3,23.0,11.0,36.2,Budget Conscious
+34.0,46.5,28.0,11.0,26.3,Budget Conscious
+43.0,84.6,78.0,28.0,136.2,Premium Loyalists
+28.0,44.3,78.0,45.0,36.8,Young Trend Shoppers
+49.0,102.0,78.0,24.0,125.1,Premium Loyalists
+40.0,77.8,93.0,25.0,126.9,Premium Loyalists
+42.0,45.7,42.0,18.0,35.3,Budget Conscious
+24.0,38.7,82.0,36.0,29.3,Young Trend Shoppers
+50.0,94.5,22.0,7.0,76.3,Affluent Infrequent
+25.0,29.3,81.0,46.0,38.6,Young Trend Shoppers
+48.0,78.3,84.0,25.0,146.6,Premium Loyalists
+49.0,102.5,14.0,3.0,100.9,Affluent Infrequent
+46.0,76.3,80.0,23.0,132.6,Premium Loyalists
+43.0,29.4,28.0,10.0,20.2,Budget Conscious
+52.0,96.3,31.0,4.0,80.8,Affluent Infrequent
+47.0,96.4,26.0,5.0,88.9,Affluent Infrequent
+62.0,94.2,14.0,4.0,108.8,Affluent Infrequent
+38.0,39.6,29.0,5.0,33.2,Budget Conscious
+39.0,49.7,26.0,12.0,25.2,Budget Conscious
+39.0,87.7,84.0,27.0,110.0,Premium Loyalists
+54.0,114.6,26.0,3.0,81.7,Affluent Infrequent
+41.0,45.1,30.0,6.0,27.4,Budget Conscious
+57.0,88.1,19.0,6.0,86.6,Affluent Infrequent
+37.0,40.4,39.0,9.0,25.9,Budget Conscious
+52.0,105.5,18.0,5.0,91.4,Affluent Infrequent
+26.0,38.1,77.0,47.0,43.4,Young Trend Shoppers
+25.0,36.7,69.0,44.0,30.6,Young Trend Shoppers
+27.0,32.1,76.0,39.0,49.1,Young Trend Shoppers
+42.0,109.4,23.0,3.0,90.1,Affluent Infrequent
+26.0,41.6,80.0,32.0,45.2,Young Trend Shoppers
+54.0,92.4,23.0,5.0,103.2,Affluent Infrequent
+27.0,32.9,77.0,33.0,40.0,Young Trend Shoppers
+43.0,75.2,78.0,23.0,134.2,Premium Loyalists
+34.0,50.3,32.0,11.0,28.5,Budget Conscious
+39.0,83.5,86.0,28.0,107.7,Premium Loyalists
+42.0,86.2,87.0,25.0,123.4,Premium Loyalists
+45.0,50.7,31.0,15.0,30.7,Budget Conscious
+43.0,41.8,31.0,15.0,31.8,Budget Conscious
+26.0,43.9,74.0,38.0,32.9,Young Trend Shoppers
+50.0,107.3,18.0,6.0,112.5,Affluent Infrequent
+54.0,82.5,28.0,4.0,87.6,Affluent Infrequent
+31.0,48.9,19.0,7.0,32.8,Budget Conscious
+33.0,44.1,31.0,15.0,33.5,Budget Conscious
+26.0,34.7,76.0,41.0,41.7,Young Trend Shoppers
+32.0,41.0,24.0,14.0,32.3,Budget Conscious
+34.0,45.1,19.0,12.0,27.1,Budget Conscious
+23.0,37.2,79.0,49.0,37.1,Young Trend Shoppers
+27.0,38.0,77.0,52.0,29.3,Young Trend Shoppers
+44.0,78.1,71.0,25.0,130.7,Premium Loyalists
+23.0,36.3,75.0,45.0,45.6,Young Trend Shoppers
+33.0,37.9,29.0,5.0,20.7,Budget Conscious
+35.0,38.4,31.0,11.0,19.7,Budget Conscious
+55.0,96.4,18.0,6.0,65.4,Affluent Infrequent
+40.0,98.9,85.0,18.0,136.6,Premium Loyalists
+40.0,99.6,68.0,25.0,116.7,Premium Loyalists
+55.0,97.0,19.0,3.0,106.5,Affluent Infrequent
+40.0,98.8,81.0,21.0,131.1,Premium Loyalists
+28.0,38.4,78.0,42.0,45.3,Young Trend Shoppers
+40.0,95.7,83.0,30.0,135.3,Premium Loyalists
